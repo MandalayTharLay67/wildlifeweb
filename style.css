@@ -1,0 +1,26 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: white;
+}
+
+
+.football {
+    color: skyblue;
+    line-height: 1.6;
+    margin-bottom: 15px;
+}
+
+h1 {
+    color: skyblue;
+    font-size: 4rem;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+img {
+    width: 500px;
+    margin: 30px 0;
+}
